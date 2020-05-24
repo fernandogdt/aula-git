@@ -1,1 +1,7 @@
-texto legal
+begin
+
+dbms_output.put_line('texto legal');
+
+end;
+
+
